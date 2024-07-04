@@ -8,6 +8,12 @@ body {
     height: 100vh;
 }
 
+.passwords {
+    display: flex;
+    flex-direction: row;
+    
+}
+
 .main-card {
     background-color: #1F2937;
     display: flex;
@@ -52,10 +58,4 @@ h1 {
 .main-content {
     border-bottom: 1px solid #2F3E53;
     margin-bottom: 24px;
-}
-
-.passwords {
-    display: flex;
-    flex-direction: row;
-    
 }
